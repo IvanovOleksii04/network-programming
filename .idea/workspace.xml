@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e00ac43-3a12-41ce-a471-8a58db22641d" name="Changes" comment="add Medium.py">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lb2/Easy_bottle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lb2/Easy_flask.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lb1/Medium.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lb1/Medium.py" afterDir="false" />
+    <list default="true" id="8e00ac43-3a12-41ce-a471-8a58db22641d" name="Changes" comment="add Easy_flask.py and Easy_bottle.py">
+      <change afterPath="$PROJECT_DIR$/Lb2/Easy 2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +21,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "IvanovOleksii04"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="14727aba-ee35-4459-9b3e-1bdcf23f3152" />
+        <option name="url" value="https://github.com/IvanovOleksii04/network-programming.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -48,6 +55,8 @@
     "Python.Easy 1.executor": "Run",
     "Python.Easy-Medium.executor": "Run",
     "Python.Easy.executor": "Run",
+    "Python.Easy_bottle.executor": "Run",
+    "Python.Easy_flask.executor": "Run",
     "Python.Medium.executor": "Run",
     "Python.Unnamed.executor": "Run",
     "Python.test.executor": "Run",
@@ -107,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735233404424</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Easy_flask.py and Easy_bottle.py">
+      <option name="closed" value="true" />
+      <created>1735302106299</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735302106299</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +156,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add Medium.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Medium.py" />
+    <MESSAGE value="add Easy_flask.py and Easy_bottle.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Easy_flask.py and Easy_bottle.py" />
   </component>
 </project>
