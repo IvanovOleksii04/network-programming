@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e00ac43-3a12-41ce-a471-8a58db22641d" name="Changes" comment="add Easy_flask.py and Easy_bottle.py" />
+    <list default="true" id="8e00ac43-3a12-41ce-a471-8a58db22641d" name="Changes" comment="add Easy_flask.py and Easy_bottle.py">
+      <change afterPath="$PROJECT_DIR$/Lb2/Medium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lb2/test_file_medium.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testfile" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
