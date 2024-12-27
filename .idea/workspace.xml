@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e00ac43-3a12-41ce-a471-8a58db22641d" name="Changes" comment="add Easy_flask.py and Easy_bottle.py">
-      <change afterPath="$PROJECT_DIR$/Lb2/Easy 2.py" afterDir="false" />
-    </list>
+    <list default="true" id="8e00ac43-3a12-41ce-a471-8a58db22641d" name="Changes" comment="add Easy_flask.py and Easy_bottle.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +51,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Easy 1.executor": "Run",
+    "Python.Easy 2.executor": "Run",
     "Python.Easy-Medium.executor": "Run",
     "Python.Easy.executor": "Run",
     "Python.Easy_bottle.executor": "Run",
