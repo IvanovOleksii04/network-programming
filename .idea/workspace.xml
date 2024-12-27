@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e00ac43-3a12-41ce-a471-8a58db22641d" name="Changes" comment="add Medium.py and test_file_medium.py">
-      <change afterPath="$PROJECT_DIR$/Lb2/Medium 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8e00ac43-3a12-41ce-a471-8a58db22641d" name="Changes" comment="add Medium 2.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735304731101</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add Medium 2.py">
+      <option name="closed" value="true" />
+      <created>1735307012814</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735307012814</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +175,7 @@
     <MESSAGE value="add Medium.py" />
     <MESSAGE value="add Easy_flask.py and Easy_bottle.py" />
     <MESSAGE value="add Medium.py and test_file_medium.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Medium.py and test_file_medium.py" />
+    <MESSAGE value="add Medium 2.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Medium 2.py" />
   </component>
 </project>
