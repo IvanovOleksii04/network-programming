@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e00ac43-3a12-41ce-a471-8a58db22641d" name="Changes" comment="add Easy_flask.py and Easy_bottle.py">
-      <change afterPath="$PROJECT_DIR$/Lb2/Medium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lb2/test_file_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testfile" beforeDir="false" />
+    <list default="true" id="8e00ac43-3a12-41ce-a471-8a58db22641d" name="Changes" comment="add Medium.py and test_file_medium.py">
+      <change afterPath="$PROJECT_DIR$/Lb2/Medium 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,9 +59,11 @@
     "Python.Easy.executor": "Run",
     "Python.Easy_bottle.executor": "Run",
     "Python.Easy_flask.executor": "Run",
+    "Python.Medium 2.executor": "Run",
     "Python.Medium.executor": "Run",
     "Python.Unnamed.executor": "Run",
     "Python.test.executor": "Run",
+    "Python.test_file_medium.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -127,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735302106299</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add Medium.py and test_file_medium.py">
+      <option name="closed" value="true" />
+      <created>1735304731101</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735304731101</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +169,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add Medium.py" />
     <MESSAGE value="add Easy_flask.py and Easy_bottle.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Easy_flask.py and Easy_bottle.py" />
+    <MESSAGE value="add Medium.py and test_file_medium.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Medium.py and test_file_medium.py" />
   </component>
 </project>
