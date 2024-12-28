@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e00ac43-3a12-41ce-a471-8a58db22641d" name="Changes" comment="add Medium 2.py">
-      <change afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lb3/REST_API.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical Task/Socket.py" afterDir="false" />
+    <list default="true" id="8e00ac43-3a12-41ce-a471-8a58db22641d" name="Changes" comment="add Lb3 (REST_API.py) and Practical_task (Socket.py)">
+      <change afterPath="$PROJECT_DIR$/Lb4/Echo_easy_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lb4/Echo_easy_server.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
@@ -61,6 +61,8 @@
     "Python.Easy.executor": "Run",
     "Python.Easy_bottle.executor": "Run",
     "Python.Easy_flask.executor": "Run",
+    "Python.Echo_easy_client.executor": "Run",
+    "Python.Echo_easy_server.executor": "Run",
     "Python.Medium 2.executor": "Run",
     "Python.Medium.executor": "Run",
     "Python.REST_API.executor": "Run",
@@ -175,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735307012814</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add Lb3 (REST_API.py) and Practical_task (Socket.py)">
+      <option name="closed" value="true" />
+      <created>1735391801208</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735391801208</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +220,7 @@
     <MESSAGE value="add Easy_flask.py and Easy_bottle.py" />
     <MESSAGE value="add Medium.py and test_file_medium.py" />
     <MESSAGE value="add Medium 2.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Medium 2.py" />
+    <MESSAGE value="add Lb3 (REST_API.py) and Practical_task (Socket.py)" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Lb3 (REST_API.py) and Practical_task (Socket.py)" />
   </component>
 </project>
